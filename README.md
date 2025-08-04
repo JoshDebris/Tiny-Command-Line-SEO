@@ -1,5 +1,5 @@
 
-# Tiny Command-Line SEO Analyzer 🕵️‍♂️
+# Tiny Command-Line SEO Analyzer
 
 A minimalistic Python script that quickly analyzes **Title, Meta Tags, and Headings (H1-H6)** of any website directly from the command line. Perfect for fast SEO sanity checks!
 
