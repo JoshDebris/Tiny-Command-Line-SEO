@@ -17,7 +17,7 @@ A minimalistic Python script that quickly analyzes **Title, Meta Tags, and Headi
 
 ## 🗂️ Project Files
 ```
-tclSEO_fixed.py
+tclSEO.py
 ```
 
 ---
